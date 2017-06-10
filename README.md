@@ -6,6 +6,13 @@ A curated list of awesome Android hot fix libraries and projects.
 
 [客户端路由动态配置——可能是最简单的热更新方案](http://www.sixwolf.net/blog/2016/12/02/%E7%83%AD%E6%9B%B4%E6%96%B0%E6%96%B9%E6%A1%88%E4%B9%8B%E8%B7%AF%E7%94%B1%E5%8A%A8%E6%80%81%E9%85%8D%E7%BD%AE/)
 
+[Android App 线上热修复方案](http://lirenlong.github.io/hotfix)
+
+[Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
+
+[【Android】Walle多渠道打包&Tinker热修复](http://www.jianshu.com/p/0ba717f7385f)
+
+[]()
 ### Tencent Tinker
 [tinker](https://github.com/Tencent/tinker) -Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk
 
@@ -22,6 +29,12 @@ A curated list of awesome Android hot fix libraries and projects.
 [热更新：使用Bugly集成的Tinker](http://www.jianshu.com/p/fed9b2cddafe)
 
 [使用Bugly快速接入Tinker热更新功能](https://juejin.im/post/584a70feac502e00691c4a07)
+
+[Tinker热修复集成总结](http://www.jianshu.com/p/194c9d89b227)
+
+[Android热更新：微信Tinker框架的接入与测试](http://www.jianshu.com/p/aadcf2ea69a6)
+
+[（续）Android热更新：Tinker热修复与Walle多渠道打包](http://www.jianshu.com/p/18ed910e7b03)
 
 [tinker-manager](https://github.com/baidao/tinker-manager) -微信tinker补丁管理，后端代码+客户端sdk
 
@@ -70,6 +83,20 @@ A curated list of awesome Android hot fix libraries and projects.
 
 [AndFix的使用详解](http://www.jianshu.com/p/18ea46e823a3)
 
+### CtripMobile
+[DynamicAPK](https://github.com/CtripMobile/DynamicAPK) -Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复)
+
 ### Other
 [magicbox](https://github.com/georgeyang1024/magicbox) -一款热更新及插件集一身的app
 
+[HotFix](https://github.com/dodola/HotFix) -安卓App热补丁动态修复框架
+
+[DroidFix](https://github.com/bunnyblue/DroidFix) -AndroidHotFix/Android 代码热修复
+
+[AndHotFix](https://github.com/coolspan/AndHotFix) -Android-基于ClassLoader的Android热修复框架
+
+[HotFix](https://github.com/AItsuki/HotFix) -Android热补丁修复框架，自动生成带签名的补丁包
+
+[AndFixDemo](https://github.com/qiushi123/AndFixDemo) -android热修复，打补丁，不用发版本就能实时的解决一些bug
+
+[delta](https://github.com/byteam/delta) -基于微信Tinker原理
