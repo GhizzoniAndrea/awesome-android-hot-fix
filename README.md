@@ -12,7 +12,9 @@ A curated list of awesome Android hot fix libraries and projects.
 
 [【Android】Walle多渠道打包&Tinker热修复](http://www.jianshu.com/p/0ba717f7385f)
 
-[]()
+### 平台
+[Android热更新服务平台](http://tinkerpatch.com/)
+
 ### Tencent Tinker
 [tinker](https://github.com/Tencent/tinker) -Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk
 
