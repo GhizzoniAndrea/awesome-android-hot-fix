@@ -12,6 +12,8 @@ A curated list of awesome Android hot fix libraries and projects.
 
 [【Android】Walle多渠道打包&Tinker热修复](http://www.jianshu.com/p/0ba717f7385f)
 
+[APP热更新方案](http://www.cnblogs.com/Creator/p/7007694.html)
+
 ### 平台
 [Android热更新服务平台](http://tinkerpatch.com/)
 
