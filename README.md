@@ -104,3 +104,5 @@ A curated list of awesome Android hot fix libraries and projects.
 - [AndFixDemo](https://github.com/qiushi123/AndFixDemo) -android热修复，打补丁，不用发版本就能实时的解决一些bug
 
 - [delta](https://github.com/byteam/delta) -基于微信Tinker原理
+
+- [（续）Android热更新：Tinker热修复与Walle多渠道打包](http://www.jianshu.com/p/18ed910e7b03)
