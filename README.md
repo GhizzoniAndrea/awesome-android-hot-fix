@@ -40,6 +40,8 @@ A curated list of awesome Android hot fix libraries and projects.
 
 - [（续）Android热更新：Tinker热修复与Walle多渠道打包](http://www.jianshu.com/p/18ed910e7b03)
 
+- [你期待已久的热修复—Tinker热修复集成总结](https://juejin.im/post/597155136fb9a06ba82d4e01)
+
 - [tinker-manager](https://github.com/baidao/tinker-manager) -微信tinker补丁管理，后端代码+客户端sdk
 
 - [tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk)
